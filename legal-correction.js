@@ -1,0 +1,1 @@
+if(location.pathname.includes('consent'))legalCopy.consent.ru[4]='Предоставление сведений и открытие WhatsApp добровольны. При нажатии «Открыть WhatsApp» текст обращения передаётся внешнему сервису WhatsApp. Решение отправлять сообщение принимает пользователь. По вопросам согласия свяжитесь по WhatsApp: +7 747 694 83 98.';document.querySelector('.legal-lang.active')?.click();
